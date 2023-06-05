@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Repositorio de prueba de modulo 2 de Henry
+Victor Osuna
+Repositorio de prueba y clonarlo a github
